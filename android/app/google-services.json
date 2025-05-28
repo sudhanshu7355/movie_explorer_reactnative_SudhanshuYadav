@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344250613941",
+    "project_id": "movieexplorer-ce91a",
+    "storage_bucket": "movieexplorer-ce91a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344250613941:android:b5e2e07227160cbc67fefc",
+        "android_client_info": {
+          "package_name": "com.movie_buzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBylEZkOyDL-k25Bj4zovjev7BAXzc0INg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
